@@ -1,0 +1,3227 @@
+-----------------------
+-----------------------
+CANBus initialized at: 2025-01-08 10:23:29
+ROUND: 0
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 0
+Stuffed Message: 000001000110000010111100000111101101100101001101001100101000111100011000010100000110000010110000010000010000010000010000010000010000010000010000010000010000010000010000010001
+CRC: 0010000001100000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Message was not received.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 1
+ 
+ROUND: 1
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 001000001100000100111100000111101101100101001101001100101000111100011000010100001010111000111000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0101011100011100
+Message was not received.
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 1  REC: 0
+- node 3  TEC: 0  REC: 2
+ 
+ROUND: 2
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 001000001100000100111100000111101101100101001101001100101000111100011000010100001010111000111000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0101011100011100
+Message was not received.
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 2  REC: 0
+- node 3  TEC: 0  REC: 3
+ 
+ROUND: 3
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 001000001100000100111100000111101101100101001101001100101000111100011000010100001010111000111000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0101011100011100
+Message was not received.
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+- node 3  TEC: 0  REC: 4
+Node 3 has reached the maximum REC value. It will be disabled.
+ 
+ROUND: 4
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 001000001100000100111100000111101101100101001101001100101000111100011000010100001010111000111000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0101011100011100
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 5
+ROUND: 6
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+!!!
+Winner 00000000100, sender ID: 1, initial round: 6
+Stuffed Message: 0000010001000001001111000001111011011001010011010011001010001111000110000101000001111010001110100000100000100000100000100000100000111000001000001000001000001000001000001001
+CRC: 0011101000111010
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 7
+No messages for the current round: 8
+No messages for the current round: 9
+No messages for the current round: 10
+No messages for the current round: 11
+ROUND: 12
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 12
+Stuffed Message: 00000100011000001011110000011110110110010100110100110010100011110001100001010000011000001011000001000001000001000001000001000001010010000010000010000010000010000010000010001
+CRC: 0010000001100000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 13
+No messages for the current round: 14
+No messages for the current round: 15
+No messages for the current round: 16
+No messages for the current round: 17
+No messages for the current round: 18
+No messages for the current round: 19
+No messages for the current round: 20
+No messages for the current round: 21
+No messages for the current round: 22
+No messages for the current round: 23
+ROUND: 24
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 24
+Stuffed Message: 000001000100000100111100000111101101100101001101001100101000111100011000010100000111101000111010000010000010000010000010000010010101000001000001000001000001000001000001001
+CRC: 0010000001100000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 25
+No messages for the current round: 26
+No messages for the current round: 27
+No messages for the current round: 28
+No messages for the current round: 29
+No messages for the current round: 30
+No messages for the current round: 31
+No messages for the current round: 32
+No messages for the current round: 33
+No messages for the current round: 34
+No messages for the current round: 35
+ROUND: 36
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 36
+Stuffed Message: 000001000110000010111100000111101101100101001101001100101000111100011000010100000110000010110000010000010000010000010000010000010110000010000010000010000010000010000010000011
+CRC: 0010000001100000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 37
+No messages for the current round: 38
+No messages for the current round: 39
+No messages for the current round: 40
+No messages for the current round: 41
+No messages for the current round: 42
+No messages for the current round: 43
+No messages for the current round: 44
+No messages for the current round: 45
+No messages for the current round: 46
+No messages for the current round: 47
+ROUND: 48
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 48
+Stuffed Message: 000001000100000100111100000111101101100101001101001100101000111100011000010100000111101000111010000010000010000010000010000010011011000001000001000001000001000001000001001
+CRC: 0010000001100000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+-----------------------
+-----------------------
+CANBus initialized at: 2025-01-08 13:52:56
+ROUND: 0
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 0
+Stuffed Message: 0000010000100101010100011010000110011010001100100101001100101000001101001110000010100001101100000100000100000100000100000100000100000100000100000100000100000100000100000101
+CRC: 0001000011011000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 1
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 0
+Stuffed Message: 0010000011010101010100011010000110011010001100100101001100101000001101001110000011111100001111000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0011111000111100
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 2
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+!!!
+Winner 01000000001, sender ID: 3, initial round: 0
+Stuffed Message: 0100000100010101010100011010000110011010001100100101001100101000001101001110000111110011110000010000010000010000010000010000010000010000010000010000010000010000010000010011
+CRC: 0111110111100000
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 3
+No messages for the current round: 4
+No messages for the current round: 5
+No messages for the current round: 6
+No messages for the current round: 7
+No messages for the current round: 8
+No messages for the current round: 9
+No messages for the current round: 10
+No messages for the current round: 11
+ROUND: 12
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 12
+Stuffed Message: 000001000010010101010001101000011001101000110010010100110010100000110100111000001010000110110000010000010000010000010000010000010110000010000010000010000010000010000010001
+CRC: 0001000011011000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 13
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 12
+Stuffed Message: 0010000011010101010100011010000110011010001100100101001100101000001101001110000011111100001111000001000001000001000001000001000001110000010000010000010000010000010000010010
+CRC: 0011111000111100
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 14
+No messages for the current round: 15
+No messages for the current round: 16
+No messages for the current round: 17
+No messages for the current round: 18
+No messages for the current round: 19
+No messages for the current round: 20
+No messages for the current round: 21
+No messages for the current round: 22
+No messages for the current round: 23
+ROUND: 24
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 24
+Stuffed Message: 000001000010010101010001101000011001101000110010010100110010100000110100111000001010000110110000010000010000010000010000010000011100000100000100000100000100000100000100001
+CRC: 0001000011011000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 25
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 24
+Stuffed Message: 001000001101010101010001101000011001101000110010010100110010100000110100111000001111110000111100000100000100000100000100000100001100000100000100000100000100000100000100010
+CRC: 0011111000111100
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 26
+No messages for the current round: 27
+No messages for the current round: 28
+No messages for the current round: 29
+No messages for the current round: 30
+No messages for the current round: 31
+No messages for the current round: 32
+No messages for the current round: 33
+No messages for the current round: 34
+No messages for the current round: 35
+ROUND: 36
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 36
+Stuffed Message: 00000100001001010101000110100001100110100011001001010011001010000011010011100000101000011011000001000001000001000001000001000010010000010000010000010000010000010000010001
+CRC: 0001000011011000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 37
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 36
+Stuffed Message: 001000001101010101010001101000011001101000110010010100110010100000110100111000001111110000111100000100000100000100000100000100010010000010000010000010000010000010000010010
+CRC: 0011111000111100
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 38
+No messages for the current round: 39
+No messages for the current round: 40
+No messages for the current round: 41
+No messages for the current round: 42
+No messages for the current round: 43
+No messages for the current round: 44
+No messages for the current round: 45
+No messages for the current round: 46
+No messages for the current round: 47
+ROUND: 48
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 48
+Stuffed Message: 000001000010010101010001101000011001101000110010010100110010100000110100111000001010000110110000010000010000010000010000010000110000010000010000010000010000010000010000011
+CRC: 0001000011011000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 49
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 48
+Stuffed Message: 001000001101010101010001101000011001101000110010010100110010100000110100111000001111110000111100000100000100000100000100000100011000001000001000001000001000001000001000010
+CRC: 0011111000111100
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+-----------------------
+-----------------------
+CANBus initialized at: 2025-01-08 13:54:01
+ROUND: 0
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 0
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 0
+Stuffed Message: 0000010000100010101000110001111011000111011000010100001101111100001110101110000010111010101010000010000010000010000010000010000010000010000010000010000010000010000010000011
+CRC: 0001110101010100
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 1
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 0
+Stuffed Message: 0010000011010010101000110001111011000111011000010100001101111100001110101110000011100111011000001000001000001000001000001000001000001000001000001000001000001000001000001010
+CRC: 0011001110110000
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 2
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 01000000001, sender ID: 3, initial round: 0
+ 
+!!!
+Winner 01000000001, sender ID: 3, initial round: 0
+Stuffed Message: 010000010001001010100011000111101100011101100001010000110111110000111010111000011100000111011000001000001000001000001000001000001000001000001000001000001000001000001000011
+CRC: 0111000001101100
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 3
+No messages for the current round: 4
+No messages for the current round: 5
+No messages for the current round: 6
+No messages for the current round: 7
+No messages for the current round: 8
+No messages for the current round: 9
+No messages for the current round: 10
+No messages for the current round: 11
+ROUND: 12
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 12
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 12
+Stuffed Message: 000001000010001010100011000111101100011101100001010000110111110000111010111000001011101010101000001000001000001000001000001000001110000010000010000010000010000010000010001
+CRC: 0001110101010100
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 13
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 12
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 12
+Stuffed Message: 001000001101001010100011000111101100011101100001010000110111110000111010111000001110011101100000100000100000100000100000100000100110000010000010000010000010000010000010010
+CRC: 0011001110110000
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 14
+No messages for the current round: 15
+No messages for the current round: 16
+No messages for the current round: 17
+No messages for the current round: 18
+No messages for the current round: 19
+No messages for the current round: 20
+No messages for the current round: 21
+No messages for the current round: 22
+No messages for the current round: 23
+ROUND: 24
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 24
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 24
+Stuffed Message: 00000100001000101010001100011110110001110110000101000011011111000011101011100000101110101010100000100000100000100000100000100001100000100000100000100000100000100000100001
+CRC: 0001110101010100
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 25
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 24
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 24
+Stuffed Message: 001000001101001010100011000111101100011101100001010000110111110000111010111000001110011101100000100000100000100000100000100000101100000100000100000100000100000100000100010
+CRC: 0011001110110000
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 26
+No messages for the current round: 27
+No messages for the current round: 28
+No messages for the current round: 29
+No messages for the current round: 30
+No messages for the current round: 31
+No messages for the current round: 32
+No messages for the current round: 33
+No messages for the current round: 34
+No messages for the current round: 35
+ROUND: 36
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 36
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 36
+Stuffed Message: 00000100001000101010001100011110110001110110000101000011011111000011101011100000101110101010100000100000100000100000100000100010010000010000010000010000010000010000010001
+CRC: 0001110101010100
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 37
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 36
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 36
+Stuffed Message: 001000001101001010100011000111101100011101100001010000110111110000111010111000001110011101100000100000100000100000100000100000110010000010000010000010000010000010000010010
+CRC: 0011001110110000
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+No messages for the current round: 38
+No messages for the current round: 39
+No messages for the current round: 40
+No messages for the current round: 41
+No messages for the current round: 42
+No messages for the current round: 43
+No messages for the current round: 44
+No messages for the current round: 45
+No messages for the current round: 46
+No messages for the current round: 47
+ROUND: 48
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000010, sender ID: 1, initial round: 48
+ 
+!!!
+Winner 00000000010, sender ID: 1, initial round: 48
+Stuffed Message: 000001000010001010100011000111101100011101100001010000110111110000111010111000001011101010101000001000001000001000001000001000110000010000010000010000010000010000010000011
+CRC: 0001110101010100
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+ROUND: 49
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000101, sender ID: 2, initial round: 48
+ 
+!!!
+Winner 00100000101, sender ID: 2, initial round: 48
+Stuffed Message: 001000001101001010100011000111101100011101100001010000110111110000111010111000001110011101100000100000100000100000100000100000111000001000001000001000001000001000001000010
+CRC: 0011001110110000
+Node 1 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 1
+Node 3 received the message, CRC verification was valid.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+ 
+-----------------------
+-----------------------
+CANBus initialized at: 2025-01-08 13:54:11
+ROUND: 0
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 0
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 0
+Stuffed Message: 00000100011001001010000011101101111100011011111011111010100110100101110000010001100111110100011100000100000100000100000100000100000100000100000100000100000100000100000100000101
+CRC: 0111111000111000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Message was not received.
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 1
+ 
+ROUND: 1
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 0010000011000100101000001110110111110001101111101111101010011010010111000001000110000011001010001000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0000100101000100
+Message was not received.
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 1  REC: 0
+- node 3  TEC: 0  REC: 2
+ 
+ROUND: 2
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 0010000011000100101000001110110111110001101111101111101010011010010111000001000110000011001010001000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0000100101000100
+Message was not received.
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 2  REC: 0
+- node 3  TEC: 0  REC: 3
+ 
+ROUND: 3
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 0010000011000100101000001110110111110001101111101111101010011010010111000001000110000011001010001000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0000100101000100
+Message was not received.
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+- node 3  TEC: 0  REC: 4
+Node 3 has reached the maximum REC value. It will be disabled.
+ 
+ROUND: 4
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00100000100, sender ID: 2, initial round: 0
+ 
+!!!
+Winner 00100000100, sender ID: 2, initial round: 0
+Stuffed Message: 0010000011000100101000001110110111110001101111101111101010011010010111000001000110000011001010001000001000001000001000001000001000001000001000001000001000001000001000001000010
+CRC: 0000100101000100
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 5
+ROUND: 6
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 6
+ 
+!!!
+Winner 00000000100, sender ID: 1, initial round: 6
+Stuffed Message: 000001000100010010100000111011011111000110111110111110101001101001011100000100011001100100011000100000100000100000100000100000100000111000001000001000001000001000001000001001
+CRC: 0110010001100010
+No nodes received the winning message. Adding it back to the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 7
+No messages for the current round: 8
+No messages for the current round: 9
+No messages for the current round: 10
+No messages for the current round: 11
+ROUND: 12
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 12
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 12
+Stuffed Message: 000001000110010010100000111011011111000110111110111110101001101001011100000100011001111101000111000001000001000001000001000001000010010000010000010000010000010000010000010001
+CRC: 0111111000111000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 13
+No messages for the current round: 14
+No messages for the current round: 15
+No messages for the current round: 16
+No messages for the current round: 17
+No messages for the current round: 18
+No messages for the current round: 19
+No messages for the current round: 20
+No messages for the current round: 21
+No messages for the current round: 22
+No messages for the current round: 23
+ROUND: 24
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 24
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 24
+Stuffed Message: 00000100010001001010000011101101111100011011111011111010100110100101110000010001100110010001100010000010000010000010000010000010010101000001000001000001000001000001000001001
+CRC: 0111111000111000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 25
+No messages for the current round: 26
+No messages for the current round: 27
+No messages for the current round: 28
+No messages for the current round: 29
+No messages for the current round: 30
+No messages for the current round: 31
+No messages for the current round: 32
+No messages for the current round: 33
+No messages for the current round: 34
+No messages for the current round: 35
+ROUND: 36
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 36
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 36
+Stuffed Message: 0000010001100100101000001110110111110001101111101111101010011010010111000001000110011111010001110000010000010000010000010000010000110000010000010000010000010000010000010000011
+CRC: 0111111000111000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+No messages for the current round: 37
+No messages for the current round: 38
+No messages for the current round: 39
+No messages for the current round: 40
+No messages for the current round: 41
+No messages for the current round: 42
+No messages for the current round: 43
+No messages for the current round: 44
+No messages for the current round: 45
+No messages for the current round: 46
+No messages for the current round: 47
+ROUND: 48
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000110, sender ID: 1, initial round: 48
+ 
+!!!
+Winner 00000000110, sender ID: 1, initial round: 48
+Stuffed Message: 00000100010001001010000011101101111100011011111011111010100110100101110000010001100110010001100010000010000010000010000010000010011011000001000001000001000001000001000001001
+CRC: 0111111000111000
+Node 2 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 2
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 3  REC: 0
+ 
+-----------------------
+-----------------------
+CANBus initialized at: 2025-01-08 13:55:31
+ROUND: 0
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 0
+ 
+!!!
+Winner 00000000100, sender ID: 1, initial round: 0
+Stuffed Message: 0000010001000111110011011101100111110000101111011000001011100110011011000100111000101100100100100000100000100000100000100000100000100000100000100000100000100000100000100001
+CRC: 0010110010010010
+Node 3 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 3
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+ROUND: 1
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 0
+ 
+!!!
+Winner 01000001000, sender ID: 3, initial round: 0
+Stuffed Message: 01000001100010010001101001101110111100101011000111110011110110010100110001011000110011010100100000100000100000100000100000100000100000100000100000100000100000100000100011
+CRC: 0011001101010010
+Node 4 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 4
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+No messages for the current round: 2
+No messages for the current round: 3
+No messages for the current round: 4
+No messages for the current round: 5
+No messages for the current round: 6
+No messages for the current round: 7
+No messages for the current round: 8
+No messages for the current round: 9
+No messages for the current round: 10
+No messages for the current round: 11
+ROUND: 12
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 12
+ 
+!!!
+Winner 00000000100, sender ID: 1, initial round: 12
+Stuffed Message: 000001000100011111001101110110011111000010111101100000101110011001101100010011100010110010010010000010000010000010000010000010000110000010000010000010000010000010000010001
+CRC: 0010110010010010
+Node 3 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 3
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+ROUND: 13
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 12
+ 
+!!!
+Winner 01000001000, sender ID: 3, initial round: 12
+Stuffed Message: 0100000110001001000110100110111011110010101100011111001111011001010011000101100011001101010010000010000010000010000010000010000110000010000010000010000010000010000010011
+CRC: 0011001101010010
+Node 4 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 4
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+No messages for the current round: 14
+No messages for the current round: 15
+No messages for the current round: 16
+No messages for the current round: 17
+No messages for the current round: 18
+No messages for the current round: 19
+No messages for the current round: 20
+No messages for the current round: 21
+No messages for the current round: 22
+No messages for the current round: 23
+ROUND: 24
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 24
+ 
+!!!
+Winner 00000000100, sender ID: 1, initial round: 24
+Stuffed Message: 000001000100011111001101110110011111000010111101100000101110011001101100010011100010110010010010000010000010000010000010000010001100000100000100000100000100000100000100001
+CRC: 0010110010010010
+Node 3 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 3
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+ROUND: 25
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 24
+ 
+!!!
+Winner 01000001000, sender ID: 3, initial round: 24
+Stuffed Message: 0100000110001001000110100110111011110010101100011111001111011001010011000101100011001101010010000010000010000010000010000010001100000100000100000100000100000100000100011
+CRC: 0011001101010010
+Node 4 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 4
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+No messages for the current round: 26
+No messages for the current round: 27
+No messages for the current round: 28
+No messages for the current round: 29
+No messages for the current round: 30
+No messages for the current round: 31
+No messages for the current round: 32
+No messages for the current round: 33
+No messages for the current round: 34
+No messages for the current round: 35
+ROUND: 36
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 36
+ 
+!!!
+Winner 00000000100, sender ID: 1, initial round: 36
+Stuffed Message: 000001000100011111001101110110011111000010111101100000101110011001101100010011100010110010010010000010000010000010000010000010010010000010000010000010000010000010000010001
+CRC: 0010110010010010
+Node 3 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 3
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+ROUND: 37
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 36
+ 
+!!!
+Winner 01000001000, sender ID: 3, initial round: 36
+Stuffed Message: 0100000110001001000110100110111011110010101100011111001111011001010011000101100011001101010010000010000010000010000010000010010010000010000010000010000010000010000010011
+CRC: 0011001101010010
+Node 4 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 4
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+No messages for the current round: 38
+No messages for the current round: 39
+No messages for the current round: 40
+No messages for the current round: 41
+No messages for the current round: 42
+No messages for the current round: 43
+No messages for the current round: 44
+No messages for the current round: 45
+No messages for the current round: 46
+No messages for the current round: 47
+ROUND: 48
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 00000000100, sender ID: 1, initial round: 48
+ 
+!!!
+Winner 00000000100, sender ID: 1, initial round: 48
+Stuffed Message: 0000010001000111110011011101100111110000101111011000001011100110011011000100111000101100100100100000100000100000100000100000100110000010000010000010000010000010000010000011
+CRC: 0010110010010010
+Node 3 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 3
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
+ROUND: 49
+  Arbitrating at bit position: 11
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 10
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 9
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 8
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 7
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 6
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 5
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 4
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 3
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 2
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+  Arbitrating at bit position: 1
+      Messages still in the race at the beginning: 
+         - message: 01000001000, sender ID: 3, initial round: 48
+ 
+!!!
+Winner 01000001000, sender ID: 3, initial round: 48
+Stuffed Message: 0100000110001001000110100110111011110010101100011111001111011001010011000101100011001101010010000010000010000010000010000010011000001000001000001000001000001000001000011
+CRC: 0011001101010010
+Node 4 received the message, CRC verification was valid.
+ - ack bit was set to valid by node: 4
+Winning message was received by at least one node. Removing it from the pending messages.
+NODE ERROR COUNTERS :
+- node 1  TEC: 0  REC: 0
+- node 2  TEC: 0  REC: 0
+- node 3  TEC: 0  REC: 0
+- node 4  TEC: 0  REC: 0
+ 
